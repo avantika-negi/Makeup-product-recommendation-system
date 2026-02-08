@@ -65,3 +65,5 @@ These challenges are common in real-world datasets and were addressed through pr
 
 This project demonstrates how content-based filtering can be used to build an effective recommendation system using textual product data.
 It also highlights the importance of data preprocessing and feature engineering when working with real-world datasets.
+
+---
